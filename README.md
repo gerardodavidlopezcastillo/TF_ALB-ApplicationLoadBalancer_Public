@@ -1,3 +1,8 @@
+# TF_ALB-ApplicationLoadBalancer_Public
+## **Description Details:**
+
+This repository guides you through the process of creating and managing AWS Application Load Balancers (ALB) using Terraform. Explore Terraform modules, security group configurations, EC2 instance setup, target group creation, ALB configuration, and testing procedures to efficiently handle load balancing in your AWS infrastructure.
+
 # AWS Application Load Balancer Basics with Terraform
 
 ## Step-01: Introduction
